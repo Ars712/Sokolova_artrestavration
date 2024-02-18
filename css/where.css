@@ -1,0 +1,14 @@
+.places{
+    margin-left: 80px;
+    margin-right: 60px;
+    display: flex;
+    flex-direction: column;
+}
+iframe{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.list{
+    color: white;
+    font-family: 'roboto condensed', sans-serif;
+}

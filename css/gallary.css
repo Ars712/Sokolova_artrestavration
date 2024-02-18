@@ -1,0 +1,28 @@
+.gallary{
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    margin-left:80px;
+    margin-right: 60px;
+}
+.card{
+    flex-basis: 300px;
+    margin-bottom: 10px;
+}
+.card-text{
+    font-family: 'roboto condensed', sans-serif;
+    font-size: 15px;
+}
+.link{
+    color: white;
+}
+.link:hover{
+    cursor: pointer;
+    color: white;
+    opacity: 65%;
+}
+.card-body{
+    background-color: black;
+}

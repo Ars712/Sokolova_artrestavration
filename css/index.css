@@ -1,0 +1,35 @@
+.pics{
+    text-align: center;
+    display: flex;
+    align-items: stretch;
+    flex-direction: row;
+}
+.about_index, .where{
+    border: white 5px solid;
+    width: 49.89%;
+    color: white;
+    position: relative;
+    display: inline-block;
+    font-family: 'roboto condensed', sans-serif;
+    letter-spacing: 1px;
+}
+.where_txt{
+    font-size: 40px;
+    position: absolute;
+    bottom: 0%;
+    padding-left: 10px;
+    padding-top: 20px;
+    text-align: left;
+    text-transform: uppercase;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.85), transparent);
+    width: 100%;
+}
+.link{
+    text-decoration: none;
+    color: white;
+}
+.link:hover{
+    cursor: pointer;
+    color: white;
+    opacity: 65%;
+}

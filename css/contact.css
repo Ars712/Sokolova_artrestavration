@@ -1,0 +1,15 @@
+.info, .mail{
+    color: white;
+    font-family: 'roboto condensed', sans-serif;
+}
+.contact{
+    margin-left: 80px;
+    margin-right: 60px;
+    letter-spacing: 3px;
+    word-spacing: 4px;
+    display: flex;
+    justify-content:space-between;
+}
+.liza_work{
+    padding-right: 120px;
+}
